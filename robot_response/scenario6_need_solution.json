@@ -1,0 +1,62 @@
+{
+    "Environment": {
+        "location": "kitchen",
+        "lighting": "well-lit",
+        "sound": "quiet",
+        "temperature": "comfortable",
+        "objects": {
+            "table": "surface for activities",
+            "blender": "mixing ingredients",
+            "rice cooker": "cooking rice",
+            "spice jars": "seasoning food",
+            "bowl": "holding food",
+            "spoon": "stirring or eating",
+            "phone": "communication or recipe reference",
+            "water jug": "pouring liquid",
+            "egg carton": "storing eggs"
+        },
+        "possible_items": {
+            "items": [
+                "paper towels",
+                "cleaning cloth",
+                "trash bin",
+                "dish soap",
+                "sponge",
+                "hand mixer",
+                "measuring cups",
+                "cutting board",
+                "knife",
+                "oven mitts"
+            ]
+        }
+    },
+    "Human": {
+        "gesture": "pouring from jug, holding phone",
+        "eye_gaze": "focused on bowl",
+        "activity": "preparing food",
+        "emotion": "concentration",
+        "intention": "to mix ingredients",
+        "touch": "feeling of objects like jug and phone",
+        "taste": "not applicable",
+        "vision": "observing ingredients",
+        "smell": "aroma of spices",
+        "sound": "not applicable",
+        "vestibular": "standing stable",
+        "proprioception": "aware of body position while cooking",
+        "interoception": "not applicable",
+        "needs": {
+            "need1": {
+                "description": "Accidental spill of spices on the table",
+                "suggested_robot_solution": "Retrieve a cleaning cloth from the kitchen drawer and gently wipe the spilled spices from the table."
+            },
+            "need2": {
+                "description": "Difficulty managing multiple tasks (holding phone and pouring)",
+                "suggested_robot_solution": "Use a mobile base to fetch a phone stand from a nearby shelf and place it on the table for easy viewing of the recipe."
+            },
+            "need3": {
+                "description": "Potential need for measuring ingredients",
+                "suggested_robot_solution": "Locate and bring measuring cups from a kitchen cabinet to assist in precise ingredient addition."
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Environment": {
+        "location": "Office",
+        "lighting": "Bright artificial light",
+        "sound": "Quiet",
+        "temperature": "Moderate",
+        "objects": {
+            "desk": "support for items",
+            "chair": "sitting",
+            "books": "reading",
+            "notebook": "writing",
+            "headphones": "listening to audio",
+            "flower vase": "decoration",
+            "plant": "decoration"
+        },
+        "possible_items": {
+            "items": [
+                "antacid",
+                "heating pad",
+                "water bottle"
+            ]
+        },
+        "human": {
+            "gesture": "clutching stomach",
+            "eye gaze": "downward",
+            "activity": "sitting",
+            "emotion": "pain",
+            "intention": "seeking relief",
+            "touch": "intense",
+            "taste": "normal",
+            "vision": "focused",
+            "smell": "normal",
+            "sound": "quiet",
+            "vestibular": "stable",
+            "proprioception": "aware",
+            "interoception": "discomfort",
+            "needs": {
+                "need1": {
+                    "description": "The person appears to be experiencing abdominal pain or discomfort.",
+                    "suggested_robot_solution": "Retrieve an antacid from the first aid kit and place it within easy reach of the person."
+                },
+                "need2": {
+                    "description": "The person might benefit from warmth to relieve abdominal pain.",
+                    "suggested_robot_solution": "Fetch a heating pad from the storage room, turn it on to a low setting, and place it on the chair next to the person."
+                },
+                "need3": {
+                    "description": "The person may be dehydrated or need to sip some water to help with discomfort.",
+                    "suggested_robot_solution": "Bring a water bottle from the kitchen and place it on the desk within easy reach."
+                },
+                "need4": {
+                    "description": "The person might need a distraction from the pain.",
+                    "suggested_robot_solution": "Turn on an audiobook using the headphones on the desk to help distract from the discomfort."
+                },
+                "need5": {
+                    "description": "The person may need to adjust their sitting position to alleviate discomfort.",
+                    "suggested_robot_solution": "Gently nudge the chair to encourage a slight repositioning which might provide relief."
+                },
+                "need6": {
+                    "description": "The person might need to document or communicate their condition.",
+                    "suggested_robot_solution": "Open the notebook to a new page and place a pen on it, making it ready for use if the person decides to write down symptoms or needs."
+                }
+            }
+        }
+    }
+}

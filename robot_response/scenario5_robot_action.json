@@ -1,0 +1,14 @@
+{
+    "retrieve a water bottle from nearby and place it within easy reach of the person": {
+        "navigation": "water bottle",
+        "move": "water bottle, person"
+    },
+    "provide a stretching strap to assist in reaching further during stretches": {
+        "navigation": "stretching strap",
+        "move": "stretching strap, person"
+    },
+    "Position a timer in view to help keep track of exercise duration": {
+        "navigation": "timer",
+        "move": "timer, person"
+    }
+}

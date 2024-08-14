@@ -1,0 +1,49 @@
+{
+    "Environment": {
+        "location": "indoor exercise room",
+        "lighting": "well-lit",
+        "sound": "quiet",
+        "temperature": "comfortable",
+        "objects": {
+            "yoga mat": "provides cushioning and grip for exercise",
+            "exercise equipment": "used for physical fitness activities",
+            "sofa": "seating and rest area"
+        },
+        "possible item": {
+            "items": [
+                "water bottle",
+                "towel",
+                "stretching strap"
+            ]
+        },
+        "human": {
+            "gesture": "sitting on yoga mat, reaching towards feet",
+            "eye gaze": "down towards legs",
+            "activity": "stretching or cooling down after exercise",
+            "emotion": "focused",
+            "intention": "to stretch or relieve muscle tension",
+            "touch": "contact with yoga mat",
+            "taste": "not applicable",
+            "vision": "observing own body alignment",
+            "smell": "not applicable",
+            "sound": "not applicable",
+            "vestibular": "balanced sitting",
+            "proprioception": "aware of body position and movement",
+            "interoception": "possibly feeling muscle stretch or fatigue",
+            "needs": {
+                "need1": {
+                    "description": "hydration during or after exercise",
+                    "suggested robot solution": "retrieve a water bottle from nearby and place it within easy reach of the person"
+                },
+                "need2": {
+                    "description": "support for more effective stretching",
+                    "suggested robot solution": "provide a stretching strap to assist in reaching further during stretches"
+                },
+                "need3": {
+                    "description": "Monitoring exercise time for effective workout management",
+                    "suggested_robot_solution": "Position a timer in view to help keep track of exercise duration"
+                }
+            }
+        }
+    }
+}

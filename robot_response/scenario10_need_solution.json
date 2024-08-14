@@ -1,0 +1,49 @@
+{
+    "Environment": {
+        "location": "Indoor, possibly a lounge or casual seating area",
+        "lighting": "Well-lit",
+        "sound": "Presumably quiet",
+        "temperature": "Comfortable",
+        "objects": {
+            "sofa": "seating",
+            "table": "placing items",
+            "towel": "drying or cleaning",
+            "plush toys": "comfort or decoration"
+        },
+        "possible item": {
+            "items": [
+                "hair dryer",
+                "comb"
+            ]
+        },
+        "human": {
+            "gesture": "Holding and twisting a towel with both hands",
+            "eye gaze": "Downward",
+            "activity": "Handling a towel, possibly drying or arranging hair",
+            "emotion": "Focused or possibly frustrated",
+            "intention": "To dry or manage hair",
+            "touch": "Engaged",
+            "taste": "Not applicable",
+            "vision": "Engaged",
+            "smell": "Not applicable",
+            "sound": "Not applicable",
+            "vestibular": "Stable",
+            "proprioception": "Engaged in fine motor skills",
+            "interoception": "Not discernible",
+            "needs": {
+                "need1": {
+                    "description": "Assistance in drying hair more efficiently",
+                    "suggested robot solution": "Retrieve a hair dryer from nearby storage or room and place it within reach on the table."
+                },
+                "need2": {
+                    "description": "Help in detangling hair",
+                    "suggested robot solution": "Find a comb from nearby storage or room and place it next to the individual on the sofa."
+                },
+                "need3": {
+                    "description": "Comfort while managing hair",
+                    "suggested robot solution": "Adjust the plush toys on the sofa to provide back support or comfort while she manages her hair."
+                }
+            }
+        }
+    }
+}

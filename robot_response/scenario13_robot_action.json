@@ -1,0 +1,14 @@
+{
+    "Gently place the blanket over the person for added warmth and comfort.": {
+        "navigation": "blanket",
+        "move": "blanket, person"
+    },
+    "Retrieve an eye mask from the storage and gently place it over the person's eyes.": {
+        "navigation": "eye mask",
+        "move": "eye mask, person"
+    },
+    "Activate a white noise machine nearby to mask disruptive sounds.": {
+        "navigation": "white noise machine",
+        "use": "white noise machine"
+    }
+}

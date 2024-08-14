@@ -1,0 +1,14 @@
+{
+    "Retrieve an ice pack from the gym's first aid kit and place it near the person so they can apply it to the sore areas to reduce inflammation and soreness.": {
+        "navigation": "gym's first aid kit",
+        "move": "ice pack, person"
+    },
+    "Provide a foam roller from the gym's equipment for the person to use on their sore muscles, helping to alleviate tightness and improve blood flow.": {
+        "navigation": "gym's equipment",
+        "use": "foam roller"
+    },
+    "Locate and offer a tube of pain relief gel from the gym's first aid area for the person to apply to sore muscles for immediate relief from pain.": {
+        "navigation": "gym's first aid area",
+        "move": "pain relief gel, person"
+    }
+}

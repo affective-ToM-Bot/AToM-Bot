@@ -1,0 +1,51 @@
+{
+    "Environment": {
+        "location": "Office",
+        "lighting": "Bright artificial light",
+        "sound": "Quiet",
+        "temperature": "Moderate",
+        "objects": {
+            "laptop": "work and communication",
+            "headphones": "audio listening",
+            "books": "reading and reference",
+            "pen": "writing",
+            "notebook": "note-taking"
+        },
+        "possible item": {
+            "items": [
+                "coffee maker",
+                "ergonomic chair",
+                "desk lamp"
+            ]
+        },
+        "human": {
+            "gesture": "yawning, arms slightly raised",
+            "eye gaze": "forward",
+            "activity": "working on laptop",
+            "emotion": "tiredness",
+            "intention": "to continue working",
+            "touch": "contact with laptop and chair",
+            "taste": "none",
+            "vision": "focused on screen",
+            "smell": "none",
+            "sound": "none",
+            "vestibular": "sitting",
+            "proprioception": "aware of body posture",
+            "interoception": "feeling of fatigue",
+            "needs": {
+                "need1": {
+                    "description": "Indication of fatigue and potential decrease in productivity",
+                    "suggested robot solution": "Navigate to a nearby coffee maker, prepare a cup of coffee, and deliver it to the desk."
+                },
+                "need2": {
+                    "description": "Potential discomfort from prolonged sitting",
+                    "suggested robot solution": "Retrieve an ergonomic chair from the office storage and replace the current chair to enhance comfort and posture."
+                },
+                "need3": {
+                    "description": "Need for better illumination to reduce eye strain",
+                    "suggested robot solution": "Position a desk lamp near the workspace to provide better lighting conditions, especially beneficial during long working hours."
+                }
+            }
+        }
+    }
+}

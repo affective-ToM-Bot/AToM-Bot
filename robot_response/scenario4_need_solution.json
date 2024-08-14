@@ -1,0 +1,51 @@
+{
+    "Environment": {
+        "location": "office",
+        "lighting": "bright",
+        "sound": "quiet",
+        "temperature": "comfortable",
+        "objects": {
+            "laptop": "work tool",
+            "books": "information source",
+            "headphones": "audio device",
+            "desk": "work surface",
+            "chair": "seating"
+        },
+        "possible_items": {
+            "items": [
+                "ergonomic chair",
+                "standing desk",
+                "neck massager"
+            ]
+        }
+    },
+    "human": {
+        "gesture": "hand on neck",
+        "eye_gaze": "downwards towards laptop",
+        "activity": "working on laptop",
+        "emotion": "discomfort or pain",
+        "intention": "to alleviate neck pain",
+        "touch": "feeling own neck",
+        "taste": "not applicable",
+        "vision": "focused on laptop",
+        "smell": "not applicable",
+        "sound": "not applicable",
+        "vestibular": "stationary",
+        "proprioception": "aware of neck position",
+        "interoception": "feeling of pain",
+        "needs": {
+            "need1": {
+                "description": "Relief from neck discomfort",
+                "suggested_robot_solution": "retrieve a neck massager from the possible items"
+            },
+            "need2": {
+                "description": "Ergonomic adjustment to reduce future discomfort",
+                "suggested_robot_solution": "adjust the chair height or desk setup to ensure ergonomic posture"
+            },
+            "need3": {
+                "description": "Immediate comfort adjustment",
+                "suggested_robot_solution": "navigate to a storage area to fetch a more supportive chair or a cushion"
+            }
+        }
+    }
+}

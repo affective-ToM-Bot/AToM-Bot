@@ -1,0 +1,14 @@
+{
+    "Retrieve the neck pillow from the nearby room and place it on the sofa to support her neck.": {
+        "navigation": "neck pillow",
+        "move": "neck pillow, sofa"
+    },
+    "Adjust the lamp to provide better lighting for reading without creating glare.": {
+        "navigation": "lamp",
+        "use": "lamp"
+    },
+    "Gently place the blanket over her legs to ensure warmth without disturbing her reading.": {
+        "navigation": "blanket",
+        "move": "blanket, her legs"
+    }
+}

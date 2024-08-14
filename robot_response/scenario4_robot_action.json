@@ -1,0 +1,14 @@
+{
+    "retrieve a neck massager from the possible items": {
+        "navigation": "neck massager",
+        "move": "supportive chair, person"
+    },
+    "adjust the chair height or desk setup to ensure ergonomic posture": {
+        "navigation": "chair",
+        "use": "chair"
+    },
+    "navigate to a storage area to fetch a more supportive chair or a cushion": {
+        "navigation": "storage area",
+        "move": "supportive chair, person"
+    }
+}

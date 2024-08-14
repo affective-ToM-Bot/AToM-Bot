@@ -1,0 +1,58 @@
+{
+    "Environment": {
+        "location": "office",
+        "lighting": "bright, natural light from window",
+        "sound": "quiet",
+        "temperature": "comfortable",
+        "objects": {
+            "laptop": "work or communication",
+            "books": "reading or reference",
+            "headphones": "listening to music or audio",
+            "coffee cup": "drinking",
+            "plant": "aesthetic enhancement"
+        },
+        "possible_items": {
+            "items": [
+                "water bottle",
+                "desk lamp",
+                "notebook",
+                "pen",
+                "chair cushion",
+                "desk organizer",
+                "calendar",
+                "sticky notes",
+                "desk fan",
+                "paperweight"
+            ]
+        },
+        "human": {
+            "gesture": "head resting on arms",
+            "eye gaze": "downward, eyes likely closed",
+            "activity": "resting or sleeping",
+            "emotion": "tired or overwhelmed",
+            "intention": "taking a break or unintentionally falling asleep",
+            "touch": "contact with desk surface",
+            "taste": "not applicable",
+            "vision": "not active",
+            "smell": "not applicable",
+            "sound": "not applicable",
+            "vestibular": "static",
+            "proprioception": "relaxed posture",
+            "interoception": "possible fatigue or stress",
+            "needs": {
+                "need1": {
+                    "description": "Reduce physical discomfort from resting on a hard surface",
+                    "suggested_robot_solution": "Retrieve a soft cushion from nearby storage and place it on the chair or under the arms for better support"
+                },
+                "need2": {
+                    "description": "Maintain hydration which can help alleviate tiredness",
+                    "suggested_robot_solution": "Fetch a water bottle from a nearby cafeteria or kitchen area and place it within easy reach on the desk"
+                },
+                "need3": {
+                    "description": "Create a more relaxing environment to enhance rest",
+                    "suggested_robot_solution": "Adjust the blinds to dim the lighting slightly, promoting a more restful atmosphere"
+                }
+            }
+        }
+    }
+}

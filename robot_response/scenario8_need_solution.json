@@ -1,0 +1,51 @@
+{
+    "Environment": {
+        "location": "Indoor, likely a living room or a small studio",
+        "lighting": "Well-lit with artificial lighting",
+        "sound": "Not applicable",
+        "temperature": "Assumed comfortable for indoor activities",
+        "objects": {
+            "sofa": "support for sitting or lying",
+            "lamp": "source of light",
+            "yoga mat": "provides cushioning and space for exercise",
+            "plush toy": "decorative or for comfort",
+            "power outlet": "source of electricity"
+        },
+        "possible item": {
+            "items": [
+                "yoga block",
+                "water bottle",
+                "fitness tracker"
+            ]
+        },
+        "human": {
+            "gesture": "Performing a yoga pose (triangle pose)",
+            "eye gaze": "Directed downwards towards the hand",
+            "activity": "Exercising",
+            "emotion": "Focused",
+            "intention": "To maintain or improve physical fitness",
+            "touch": "Feet and hand in contact with the mat",
+            "taste": "Not applicable",
+            "vision": "Observing position of hand for balance",
+            "smell": "Not applicable",
+            "sound": "Not applicable",
+            "vestibular": "Balance and spatial orientation",
+            "proprioception": "Awareness of body position and movement",
+            "interoception": "Not directly observable but likely monitoring exertion",
+            "needs": {
+                "need1": {
+                    "description": "Stability and support during yoga pose",
+                    "suggested robot solution": "Retrieve and place a yoga block near her extended hand for additional support."
+                },
+                "need2": {
+                    "description": "Hydration during exercise",
+                    "suggested robot solution": "Fetch a water bottle from a nearby location and place it within easy reach."
+                },
+                "need3": {
+                    "description": "Monitoring exercise intensity and duration",
+                    "suggested robot solution": "Bring a fitness tracker and place it near her for easy access to monitor her activity."
+                }
+            }
+        }
+    }
+}

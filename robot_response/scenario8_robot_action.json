@@ -1,0 +1,14 @@
+{
+    "Retrieve and place a yoga block near her extended hand for additional support.": {
+        "navigation": "yoga block",
+        "move": "yoga block, person"
+    },
+    "Fetch a water bottle from a nearby location and place it within easy reach.": {
+        "navigation": "water bottle",
+        "move": "water bottle, person"
+    },
+    "Bring a fitness tracker and place it near her for easy access to monitor her activity.": {
+        "navigation": "fitness tracker",
+        "move": "fitness tracker, person"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "Environment": {
+        "location": "Indoor kitchen",
+        "lighting": "Bright artificial light",
+        "sound": "Quiet",
+        "temperature": "Moderate",
+        "objects": {
+            "table": "support",
+            "pan": "cooking",
+            "portable stove": "heating",
+            "spices": "flavoring",
+            "cutting board": "chopping"
+        },
+        "possible_items": {
+            "items": [
+                "kitchen timer",
+                "oven mitts",
+                "additional cooking utensils"
+            ]
+        },
+        "human": {
+            "gesture": "Holding a pan and spatula",
+            "eye gaze": "Focused on the pan",
+            "activity": "Cooking",
+            "emotion": "Concentration",
+            "intention": "To cook a meal",
+            "touch": "Handling cooking utensils",
+            "taste": "Potentially tasting food",
+            "vision": "Observing cooking process",
+            "smell": "Smelling cooking food",
+            "sound": "Listening to cooking sounds",
+            "vestibular": "Standing upright",
+            "proprioception": "Aware of body position while cooking",
+            "interoception": "Feeling of hunger or satisfaction from cooking",
+            "needs": {
+                "need1": {
+                    "description": "Need to manage multiple cooking tasks simultaneously",
+                    "suggested_robot_solution": "Use a kitchen timer to help manage cooking times for different dishes."
+                },
+                "need2": {
+                    "description": "Need to prevent burns while handling hot cookware",
+                    "suggested_robot_solution": "Provide oven mitts to safely handle hot utensils and cookware."
+                },
+                "need3": {
+                    "description": "Need for efficient cooking tool management",
+                    "suggested_robot_solution": "Organize and hand over additional cooking utensils as needed to facilitate efficient cooking."
+                }
+            }
+        }
+    }
+}

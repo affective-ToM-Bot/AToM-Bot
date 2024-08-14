@@ -1,0 +1,14 @@
+{
+    "Retrieve the water bottle and position it within easy reach for hydration": {
+        "navigation": "water_bottle",
+        "move": "water_bottle, person"
+    },
+    "Activate a nearby fan (if available) or simulate air flow by moving an object to create a breeze": {
+        "navigation": "fan",
+        "use": "fan"
+    },
+    "Fetch a towel from a nearby location and place it on the couch within reach": {
+        "navigation": "towel",
+        "move": "towel, couch"
+    }
+}

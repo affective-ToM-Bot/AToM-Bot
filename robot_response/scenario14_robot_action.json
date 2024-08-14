@@ -1,0 +1,14 @@
+{
+    "Use a mobile base to fetch paper towels from a nearby location to clean up the spills.": {
+        "navigation": "paper towels",
+        "move": "paper towels, spill location"
+    },
+    "Retrieve cleaning spray and paper towels to assist in wiping down the table and cooking area after meal preparation.": {
+        "navigation": "cleaning spray",
+        "move": "cleaning spray, table and cooking area"
+    },
+    "Reposition spice jars and sauce bottles closer to the stove using a robot arm to facilitate easier access.": {
+        "navigation": "spice jars and sauce bottles",
+        "move": "spice jars and sauce bottles, closer to the stove"
+    }
+}

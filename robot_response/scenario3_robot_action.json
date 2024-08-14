@@ -1,0 +1,14 @@
+{
+    "Use a kitchen timer to help manage cooking times for different dishes": {
+        "navigation": "kitchen timer",
+        "use": "kitchen timer"
+    },
+    "Provide oven mitts to safely handle hot utensils and cookware": {
+        "navigation": "oven mitts",
+        "move": "oven mitts, person"
+    },
+    "Organize and hand over additional cooking utensils as needed to facilitate efficient cooking": {
+        "navigation": "cooking utensils",
+        "move": "cooking utensils, person"
+    }
+}

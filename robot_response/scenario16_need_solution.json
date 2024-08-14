@@ -1,0 +1,50 @@
+{
+    "Environment": {
+        "location": "Indoor exercise room",
+        "lighting": "Well-lit",
+        "sound": "Quiet",
+        "temperature": "Moderate",
+        "objects": {
+            "exercise bike": "for physical exercise",
+            "couch": "for resting",
+            "water bottle": "for hydration",
+            "foam roller": "for muscle relaxation",
+            "plush toy": "for decoration"
+        },
+        "possible item": {
+            "items": [
+                "towel",
+                "fan",
+                "electrolyte drink"
+            ]
+        },
+        "human": {
+            "gesture": "hand on forehead, slightly bent forward",
+            "eye gaze": "downward",
+            "activity": "cycling",
+            "emotion": "fatigue or discomfort",
+            "intention": "to exercise",
+            "touch": "contact with bike",
+            "vision": "focused on nearby objects",
+            "smell": "neutral",
+            "sound": "quiet",
+            "vestibular": "balance maintained on bike",
+            "proprioception": "aware of body position",
+            "interoception": "feeling of heat or sweat",
+            "needs": {
+                "need1": {
+                    "description": "The person appears to be overheated and sweating.",
+                    "suggested robot solution": "Retrieve the water bottle and position it within easy reach for hydration."
+                },
+                "need2": {
+                    "description": "The person might benefit from cooling down.",
+                    "suggested robot solution": "Activate a nearby fan (if available) or simulate air flow by moving an object to create a breeze."
+                },
+                "need3": {
+                    "description": "The person may need to wipe sweat.",
+                    "suggested robot solution": "Fetch a towel from a nearby location and place it on the couch within reach."
+                }
+            }
+        }
+    }
+}

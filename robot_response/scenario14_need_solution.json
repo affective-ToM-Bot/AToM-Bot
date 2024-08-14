@@ -1,0 +1,53 @@
+{
+    "Environment": {
+        "location": "Indoor kitchen setup",
+        "lighting": "Bright, artificial",
+        "sound": "Quiet",
+        "temperature": "Moderate",
+        "objects": {
+            "portable stove": "cooking",
+            "pan": "cooking",
+            "spatula": "flipping or stirring food",
+            "plate": "serving food",
+            "sauce bottles": "flavoring food",
+            "coffee machine": "making coffee",
+            "water boiler": "heating water",
+            "spice jars": "seasoning food"
+        },
+        "possible item": {
+            "items": [
+                "paper towels",
+                "cleaning spray"
+            ]
+        },
+        "human": {
+            "gesture": "Pouring sauce into pan",
+            "eye gaze": "Focused on pan",
+            "activity": "Cooking",
+            "emotion": "Concentration",
+            "intention": "Preparing a meal",
+            "touch": "Handling sauce bottle and spatula",
+            "taste": "Not applicable",
+            "vision": "Observing cooking process",
+            "smell": "Experiencing food aromas",
+            "sound": "Listening to cooking sounds",
+            "vestibular": "Standing upright",
+            "proprioception": "Aware of body position while cooking",
+            "interoception": "Feeling of hunger or satisfaction from cooking",
+            "needs": {
+                "need1": {
+                    "description": "Prevent sauce spills on the table",
+                    "suggested robot solution": "Use a mobile base to fetch paper towels from a nearby location to clean up the spills."
+                },
+                "need2": {
+                    "description": "Maintain cleanliness of the cooking area",
+                    "suggested robot solution": "Retrieve cleaning spray and paper towels to assist in wiping down the table and cooking area after meal preparation."
+                },
+                "need3": {
+                    "description": "Ensure all cooking ingredients are within reach",
+                    "suggested robot solution": "Reposition spice jars and sauce bottles closer to the stove using a robot arm to facilitate easier access."
+                }
+            }
+        }
+    }
+}

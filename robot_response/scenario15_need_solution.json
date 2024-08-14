@@ -1,0 +1,51 @@
+{
+    "Environment": {
+        "location": "Indoor, living room",
+        "lighting": "Moderate, with natural light and a lamp",
+        "sound": "Quiet",
+        "temperature": "Comfortable",
+        "objects": {
+            "sofa": "sitting",
+            "book": "reading",
+            "lamp": "lighting",
+            "plush toy": "decorative or emotional comfort",
+            "blanket": "warmth"
+        },
+        "possible item": {
+            "items": [
+                "book stand",
+                "reading glasses",
+                "neck pillow"
+            ]
+        },
+        "human": {
+            "gesture": "Sitting with legs crossed, holding a book",
+            "eye gaze": "Focused on the book",
+            "activity": "Reading",
+            "emotion": "Engaged, possibly slight discomfort due to posture",
+            "intention": "To read and relax",
+            "touch": "Feeling the texture of the book and sofa",
+            "taste": "Not applicable",
+            "vision": "Focused on reading material",
+            "smell": "Possibly the smell of the book or room",
+            "sound": "Quiet, focused environment",
+            "vestibular": "Stable, seated",
+            "proprioception": "Aware of body position on the sofa",
+            "interoception": "Feeling of relaxation or slight discomfort",
+            "needs": {
+                "need1": {
+                    "description": "Possible discomfort from prolonged sitting in one position",
+                    "suggested robot solution": "Retrieve the neck pillow from the nearby room and place it on the sofa to support her neck."
+                },
+                "need2": {
+                    "description": "Need for enhanced reading experience",
+                    "suggested robot solution": "Adjust the lamp to provide better lighting for reading without creating glare."
+                },
+                "need3": {
+                    "description": "Maintaining a comfortable temperature while reading",
+                    "suggested robot solution": "Gently place the blanket over her legs to ensure warmth without disturbing her reading."
+                }
+            }
+        }
+    }
+}

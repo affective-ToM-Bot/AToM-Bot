@@ -1,0 +1,14 @@
+{
+    "Retrieve a water bottle from nearby and place it within easy reach of the person to help alleviate discomfort": {
+        "navigation": "water bottle",
+        "move": "water bottle, person"
+    },
+    "Provide napkins by picking them up from a nearby dispenser and placing them on the table": {
+        "navigation": "napkin dispenser",
+        "move": "napkins, table"
+    },
+    "Locate a spoon nearby and replace the chopsticks with it to facilitate easier eating": {
+        "navigation": "spoon",
+        "move": "spoon, chopsticks"
+    }
+}

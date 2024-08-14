@@ -1,0 +1,26 @@
+{
+    "Retrieve an antacid from the first aid kit and bring it to the person.": {
+        "navigation": "first aid kit",
+        "move": "antacid, person"
+    },
+    "Fetch a water bottle from a nearby pantry or fridge and place it within easy reach of the person.": {
+        "navigation": "pantry or fridge",
+        "move": "water bottle, person"
+    },
+    "Bring a heating pad from the storage area and place it near the person to use on their abdomen.": {
+        "navigation": "storage area",
+        "move": "heating pad, person"
+    },
+    "Offer a book from the desk for reading, which might help distract from the pain.": {
+        "navigation": "desk",
+        "move": "book, person"
+    },
+    "Adjust the chair to a more reclined position to help the person relax.": {
+        "navigation": "chair",
+        "use": "chair"
+    },
+    "Position the plant closer to the person, as plants can improve air quality and provide a calming environment.": {
+        "navigation": "plant",
+        "move": "plant, person"
+    }
+}

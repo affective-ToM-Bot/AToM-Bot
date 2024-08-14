@@ -1,0 +1,49 @@
+{
+    "Environment": {
+        "location": "Indoor dining area",
+        "lighting": "Bright artificial light",
+        "sound": "Quiet",
+        "temperature": "Comfortable",
+        "objects": {
+            "table": "eating surface",
+            "food container": "holds food",
+            "chopsticks": "eating utensil",
+            "plush toys": "decorative"
+        },
+        "possible item": {
+            "items": [
+                "water bottle",
+                "napkins"
+            ]
+        },
+        "human": {
+            "gesture": "hand near mouth, holding chopsticks",
+            "eye gaze": "looking at food",
+            "activity": "eating",
+            "emotion": "discomfort",
+            "intention": "to eat",
+            "touch": "active",
+            "taste": "active",
+            "vision": "active",
+            "smell": "active",
+            "sound": "inactive",
+            "vestibular": "inactive",
+            "proprioception": "active",
+            "interoception": "active",
+            "needs": {
+                "need1": {
+                    "description": "Person appears to be experiencing discomfort possibly due to spicy or hot food",
+                    "suggested robot solution": "Retrieve a water bottle from nearby and place it within easy reach of the person to help alleviate discomfort."
+                },
+                "need2": {
+                    "description": "Potential mess from eating, as indicated by the person's focused handling of food",
+                    "suggested robot solution": "Provide napkins by picking them up from a nearby dispenser and placing them on the table."
+                },
+                "need3": {
+                    "description": "Person might need a change in eating utensil if discomfort continues",
+                    "suggested robot solution": "Locate a spoon nearby and replace the chopsticks with it to facilitate easier eating."
+                }
+            }
+        }
+    }
+}

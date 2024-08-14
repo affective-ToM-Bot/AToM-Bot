@@ -1,0 +1,14 @@
+{
+    "Navigate to a nearby coffee maker, prepare a cup of coffee, and deliver it to the desk.": {
+        "navigation": "coffee maker",
+        "use": "coffee maker"
+    },
+    "Retrieve an ergonomic chair from the office storage and replace the current chair to enhance comfort and posture.": {
+        "navigation": "office storage",
+        "move": "ergonomic chair,desk"
+    },
+    "Position a desk lamp near the workspace to provide better lighting conditions, especially beneficial during long working hours.": {
+        "navigation": "desk lamp",
+        "move": "desk lamp,workspace"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "Environment": {
+        "location": "Office",
+        "lighting": "Bright, natural light from the window",
+        "sound": "Quiet",
+        "temperature": "Comfortable",
+        "objects": {
+            "laptop": "work or entertainment",
+            "books": "reading or reference",
+            "notebook": "note-taking or sketching",
+            "pen": "writing",
+            "headphones": "listening to music or audio",
+            "flowers": "aesthetic enhancement"
+        },
+        "possible item": {
+            "items": [
+                "eye drops",
+                "anti-glare screen protector",
+                "ergonomic chair"
+            ]
+        },
+        "human": {
+            "gesture": "rubbing eyes",
+            "eye gaze": "downward",
+            "activity": "working or studying",
+            "emotion": "fatigue or discomfort",
+            "intention": "to relieve eye strain or discomfort",
+            "touch": "sensitive due to eye rubbing",
+            "vision": "possibly blurred or strained",
+            "needs": {
+                "need1": {
+                    "description": "Relief from eye strain",
+                    "suggested robot solution": "Retrieve and offer eye drops from the first aid kit to help soothe her eyes."
+                },
+                "need2": {
+                    "description": "Reduce glare on laptop screen",
+                    "suggested robot solution": "Install an anti-glare screen protector on the laptop to reduce eye strain."
+                },
+                "need3": {
+                    "description": "Comfortable seating to improve posture and reduce physical strain",
+                    "suggested robot solution": "Adjust the chair to a more ergonomic position or replace it with an ergonomic chair from the storage room."
+                }
+            }
+        }
+    }
+}

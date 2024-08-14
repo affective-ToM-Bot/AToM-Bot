@@ -1,0 +1,56 @@
+{
+    "Environment": {
+        "location": "Indoor gym",
+        "lighting": "Well-lit",
+        "sound": "Quiet",
+        "temperature": "Moderate",
+        "objects": {
+            "yoga mat": "exercise support",
+            "couch": "seating",
+            "foam rollers": "muscle relaxation",
+            "plush toy": "decorative"
+        },
+        "possible item": {
+            "items": [
+                "water bottle",
+                "towel",
+                "exercise band",
+                "weights",
+                "fitness tracker",
+                "speaker for music",
+                "fan",
+                "timer",
+                "exercise guidebook",
+                "pain relief gel"
+            ]
+        },
+        "human": {
+            "gesture": "rubbing sore muscles",
+            "eye gaze": "downward",
+            "activity": "resting after vigorous exercise",
+            "emotion": "fatigue and discomfort",
+            "intention": "to alleviate muscle soreness",
+            "touch": "massaging sore muscles",
+            "vision": "focused on affected muscles",
+            "smell": "not relevant",
+            "sound": "not relevant",
+            "vestibular": "stable, seated or lying down",
+            "proprioception": "aware of body position and muscle pain",
+            "interoception": "feeling of muscle soreness and fatigue",
+            "needs": {
+                "need1": {
+                    "description": "Relief from muscle soreness",
+                    "suggested robot solution": "Retrieve an ice pack from the gym's first aid kit and place it near the person so they can apply it to the sore areas to reduce inflammation and soreness."
+                },
+                "need2": {
+                    "description": "Muscle relaxation to aid recovery",
+                    "suggested robot solution": "Provide a foam roller from the gym's equipment for the person to use on their sore muscles, helping to alleviate tightness and improve blood flow."
+                },
+                "need3": {
+                    "description": "Topical pain relief and muscle recovery",
+                    "suggested robot solution": "Locate and offer a tube of pain relief gel from the gym's first aid area for the person to apply to sore muscles for immediate relief from pain."
+                }
+            }
+        }
+    }
+}

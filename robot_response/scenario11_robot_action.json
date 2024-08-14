@@ -1,0 +1,14 @@
+{
+    "Retrieve a soft cushion from nearby storage and place it on the chair or under the arms for better support": {
+        "navigation": "storage",
+        "move": "soft cushion,chair"
+    },
+    "Fetch a water bottle from a nearby cafeteria or kitchen area and place it within easy reach on the desk": {
+        "navigation": "cafeteria",
+        "move": "water bottle,desk"
+    },
+    "Adjust the blinds to dim the lighting slightly, promoting a more restful atmosphere": {
+        "navigation": "blinds",
+        "use": "blinds"
+    }
+}

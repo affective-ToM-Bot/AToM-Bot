@@ -1,0 +1,14 @@
+{
+    "Retrieve a hair dryer from nearby storage or room and place it within reach on the table.": {
+        "navigation": "storage or room",
+        "move": "hair dryer, table"
+    },
+    "Find a comb from nearby and place it next to the individual on the sofa.": {
+        "navigation": "nearby storage or room",
+        "move": "comb, sofa"
+    },
+    "Adjust the plush toys on the sofa to provide back support or comfort while she manages her hair.": {
+        "navigation": "sofa",
+        "use": "plush toys"
+    }
+}

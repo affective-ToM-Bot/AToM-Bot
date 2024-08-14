@@ -1,0 +1,15 @@
+{
+    "Retrieve a cleaning cloth from the kitchen drawer and gently wipe the spilled spices from the table.": {
+        "navigation": "kitchen drawer",
+        "move": "cleaning cloth,table",
+        "use": "cleaning cloth"
+    },
+    "Use a mobile base to fetch a phone stand from a nearby shelf and place it on the table for easy viewing of the recipe.": {
+        "navigation": "nearby shelf",
+        "move": "phone stand,table"
+    },
+    "Locate and bring measuring cups from a kitchen cabinet to assist in precise ingredient addition.": {
+        "navigation": "kitchen cabinet",
+        "move": "measuring cups,person"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Retrieve and offer eye drops from the first aid kit to help soothe her eyes": {
+        "navigation": "first aid kit",
+        "move": "eye drops, person"
+    },
+    "Install an anti-glare screen protector on the laptop to reduce eye strain": {
+        "navigation": "storage",
+        "use": "anti-glare screen protector"
+    },
+    "Adjust the chair to a more ergonomic position or replace it with an ergonomic chair from the storage room": {
+        "navigation": "storage room",
+        "move": "ergonomic chair, person"
+    }
+}
